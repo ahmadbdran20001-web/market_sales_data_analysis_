@@ -13,11 +13,11 @@ the data contains 51291 rows and 21 columns
 4-each column was converted to a number , data or text format depending on the column and its contents
 5-prepared the dataset for analysis 
 ## data analysis :
-(chart1.png)[most sold products are office supplies ]
-(chart2.png)[highest quantities sold in central , south and north ; very low in canada , caribbean and central asia]
-(chart3.png)[profits increase over the years ]
-(chart4.png)[top five products generate the most profits]
-(chart5.png)[consumers have higher profits than other segments]
+(chart1.png)[most sold products are office supplies ]!
+(chart2.png)[highest quantities sold in central , south and north ; very low in canada , caribbean and central asia]!
+(chart3.png)[profits increase over the years ]!
+(chart4.png)[top five products generate the most profits]!
+(chart5.png)[consumers have higher profits than other segments]!
 ## key insights :
 -focus on maintaining sufficient stock office products
 -are low sales of other products normal??
