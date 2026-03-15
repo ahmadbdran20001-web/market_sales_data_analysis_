@@ -17,15 +17,15 @@ the data contains 51291 rows and 21 columns
 
 5-prepared the dataset for analysis 
 ## data analysis :
-(chart1.Png)[most sold products are office supplies ]!
+(chart1.png)[most sold products are office supplies ]!
 
-(chart2.Png)[highest quantities sold in central , south and north ; very low in canada , caribbean and central asia]!
+(chart2.png)[highest quantities sold in central , south and north ; very low in canada , caribbean and central asia]!
 
-(chart 3.Png)[profits increase over the years ]!
+(chart 3.png)[profits increase over the years ]!
 
-(chart4.Png)[top five products generate the most profits]!
+(chart4.png)[top five products generate the most profits]!
 
-(chart5.Png)[consumers have higher profits than other segments]!
+(chart5.png)[consumers have higher profits than other segments]!
 ## key insights :
 -focus on maintaining sufficient stock office products
 
