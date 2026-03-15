@@ -21,7 +21,7 @@ the data contains 51291 rows and 21 columns
 
 (chart2.png)[highest quantities sold in central , south and north ; very low in canada , caribbean and central asia]!
 
-(chart3.png)[profits increase over the years ]!
+(chart 3.png)[profits increase over the years ]!
 
 (chart4.png)[top five products generate the most profits]!
 
