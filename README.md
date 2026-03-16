@@ -19,9 +19,9 @@ the data contains 51291 rows and 21 columns
 
 5-prepared the dataset for analysis 
 ## data analysis :
-                      <Dashboard>
+                                         Dashboard
                       
-<img src="Dashboard.png" width="700">
+<img src="Dashboard.png" width="900">
 
 <img src="chart1.png" width="500">
 
