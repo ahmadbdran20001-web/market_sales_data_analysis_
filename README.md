@@ -23,13 +23,21 @@ the data contains 51291 rows and 21 columns
 
 consumers have higher profits than other segments
 
-![highest quantities sold in central , south and north ; very low in canada , caribbean and central asia](chart2.png)
+<img src="chart2.png" width="500">
 
-![profits increase over the years ](chart 3.png)
+highest quantities sold in central , south and north ; very low in canada , caribbean and central asia
 
-![top five products generate the most profits](chart4.png)
+<img src="chart3.png" width="500">
 
-![consumers have higher profits than other segments](chart5.png)
+profits increase over the years
+
+<img src="chart4.png" width="500">
+
+top five products generate the most profits
+
+<img src="chart5.png" width="500">
+
+consumers have higher profits than other segments
 ## key insights :
 -focus on maintaining sufficient stock office products
 
