@@ -19,7 +19,7 @@ the data contains 51291 rows and 21 columns
 
 5-prepared the dataset for analysis 
 ## data analysis :
-(chart1.png)[most sold products are office supplies ]!
+[most sold products are office supplies ](chart1.png)!
 
 (chart2.png)[highest quantities sold in central , south and north ; very low in canada , caribbean and central asia]!
 
