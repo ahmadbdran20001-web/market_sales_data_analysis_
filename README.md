@@ -3,7 +3,7 @@ data analysis project using excel to explore market sales
 ## Data source :
 from kaggel 
 ## Tools used :
-Excel
+Excel using Power_Query
 ## Project Question : 
 What factors affect sales and profit performance across region , product categories and customer segment ??
 ## Explore data :
